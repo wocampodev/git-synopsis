@@ -1,0 +1,3 @@
+"id","name","email","password","role"
+"1","Alice Brown","alicebrown@example.com","passwordabc","user"
+"2","Mike Davis","mikedavis@example.com","passworddef","admin"
