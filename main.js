@@ -14,3 +14,10 @@ console.log("");
 console.log("GAAAAAAAA");
 console.log("AARON SORIA");
 
+
+
+
+
+
+console.log("Agregando user: Adolfo");
+console.log("Agregando user: David");
