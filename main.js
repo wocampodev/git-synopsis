@@ -6,3 +6,4 @@ console.log('Raquel')
 
 consoleGreeting('Arnold!')
 
+console.log("error")
