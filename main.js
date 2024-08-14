@@ -2,4 +2,4 @@ import { consoleGreeting } from './greeting'
 
 console.log('hola')
 
-consoleGreeting('Arnold!')
+consoleGreeting('Synopsis Trainee!')
